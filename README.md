@@ -27,8 +27,6 @@ zkSync Era is distributed under the terms of either
 at your option.
 
 ## Official Links
-
-- [Website](https://zksync.io/)
 - [GitHub](https://github.com/matter-labs)
 - [ZK Credo](https://github.com/zksync/credo)
 - [Twitter](https://twitter.com/zksync)
