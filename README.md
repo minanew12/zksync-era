@@ -29,7 +29,6 @@ at your option.
 - [GitHub](https://github.com/matter-labs)
 - [ZK Credo](https://github.com/zksync/credo)
 - [Twitter](https://twitter.com/zksync)
-- [Youtube](https://www.youtube.com/@zkSync-era)
 
 ## Disclaimer
 
