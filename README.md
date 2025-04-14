@@ -14,10 +14,6 @@ The following questions will be answered by the following resources:
 | Where can I find protocol specs?                        | [specs](docs/specs/README.md)                  |
 | Where can I find developer docs?                        | [docs](https://era.zksync.io/docs/)            |
 
-## License
-
-zkSync Era is distributed under the terms of either
-
 at your option.
 
 ## Official Links
